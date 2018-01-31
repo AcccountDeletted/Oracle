@@ -1,1 +1,3 @@
 
+SELECT atributo
+FROM entidad;
